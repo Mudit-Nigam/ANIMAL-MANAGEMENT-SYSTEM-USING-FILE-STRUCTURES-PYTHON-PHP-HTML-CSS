@@ -1,0 +1,452 @@
+0 CAT  Abyssinian
+1 CAT  Australian Mist
+2 CAT  Balinese
+3 CAT  Bengal
+4 CAT  Birman
+5 CAT  Bombay
+6 CAT  British Shorthair
+7 CAT  Burmese
+8 CAT  Burmilla
+9 CAT  Cornish Rex
+10 CAT  Devon Rex
+11 CAT  Egyptian Mau
+12 CAT  Exotic Shorthair
+13 CAT  Japanese Bobtail
+14 CAT  Korat
+15 CAT  La Perms
+16 CAT  Maine Coon
+17 CAT  Manx
+18 CAT  Norwegian Forest
+19 CAT  Ocicat
+20 CAT  Oriental Shorthair
+21 CAT  Persian Longhair
+22 CAT  Ragdoll
+23 CAT  Russian Blue
+24 CAT  Scottish Fold
+25 CAT  Siamese
+26 CAT  Siberian Forest
+27 CAT  Singapura
+28 CAT  Snowshoe
+29 CAT  Somali
+30 CAT  Sphynx
+31 CAT  Tiffanie
+32 CAT  Tonkinese
+33 CAT  Turkish Van
+34 DOG  Affenpinscher
+35 DOG  Afghan Hound
+36 DOG  Airedale Terrier
+37 DOG  Alaskan Malamute
+38 DOG  American Staffordshire Bull Terrier
+39 DOG  Anatolian Shepherd Dog
+40 DOG  Australian Cattle Dog
+41 DOG  Australian Kelpie
+42 DOG  Australian Shepherd Dog
+43 DOG  Australian Silky Terrier
+44 DOG  Australian Terrier
+45 DOG  Basenji
+46 DOG  Basset Fauve de Bretagne
+47 DOG  Basset Hound
+48 DOG  Beagle
+49 DOG  Bearded Collie
+50 DOG  Bedlington Terrier
+51 DOG  Belgian Shepherd Dog
+52 DOG  Bernese Mountain Dog
+53 DOG  Bichon Frise
+54 DOG  Bloodhound
+55 DOG  Border Terrier
+56 DOG  Borzoi
+57 DOG  Boston Terrier
+58 DOG  Bouvier des Flandres
+59 DOG  Boxer
+60 DOG  Bracco Italiano
+61 DOG  Briard
+62 DOG  Brittany
+63 DOG  Bull Terrier
+64 DOG  Bull Terrier Miniature
+65 DOG  Bulldog
+66 DOG  Bullmastiff
+67 DOG  Cairn Terrier
+68 DOG  Cavalier King Charles Spaniel
+69 DOG  Cesky Terrier
+70 DOG  Chesapeake Bay Retriever
+71 DOG  Chihuahua
+72 DOG  Chinese Crested
+73 DOG  Chow Chow
+74 DOG  Clumber Spaniel
+75 DOG  Collie
+76 DOG  Curly-Coated Retriever
+77 DOG  Dachshund
+78 DOG  Dalmatian
+79 DOG  Dandie Dinmont Terrier
+80 DOG  Deerhound
+81 DOG  Dobermann
+82 DOG  Dogue de Bordeaux
+83 DOG  English Setter
+84 DOG  English Springer Spaniel
+85 DOG  English Toy Terrier (Black & Tan)
+86 DOG  Field Spaniel
+87 DOG  Finnish Lapphund
+88 DOG  Finnish Spitz
+89 DOG  Flat-Coated Retriever
+90 DOG  Fox Terrier Smooth Coat
+91 DOG  Fox Terrier Wire Coat
+92 DOG  Foxhound
+93 DOG  French Bulldog
+94 DOG  German Shepherd Dog
+95 DOG  German Short-Haired Pointer
+96 DOG  German Spitz Klein
+97 DOG  German Wire-Haired Pointer
+98 DOG  Golden Retriever
+99 DOG  Gordon Setter
+100 DOG  Great Dane
+101 DOG  Greyhound
+102 DOG  Harrier Hound
+103 DOG  Hungarian Vizsla
+104 DOG  Hungarian Wire-Haired Vizsla
+105 DOG  Ibizan Hound
+106 DOG  Irish Setter
+107 DOG  Irish Terrier
+108 DOG  Irish Water Spaniel
+109 DOG  Irish Wolfhound
+110 DOG  Italian Greyhound
+111 DOG  Japanese Akita
+112 DOG  Japanese Chin
+113 DOG  Japanese Spitz
+114 DOG  Keeshond
+115 DOG  Kerry Blue Terrier
+116 DOG  King Charles Spaniel
+117 DOG  Labrador Retriever
+118 DOG  Lakeland Terrier
+119 DOG  Leonberger
+120 DOG  Lhaso Apso
+121 DOG  Lowchen
+122 DOG  Maltese
+123 DOG  Manchester Terrier
+124 DOG  Maremma Sheepdog
+125 DOG  Mastiff
+126 DOG  Newfoundland
+127 DOG  Norfolk Terrier
+128 DOG  Norwich Terrier
+129 DOG  Nova Scotia Duck Tolling Retriever
+130 DOG  Old English Sheepdog
+131 DOG  Papillon
+132 DOG  Parson Jack Russell Terrier
+133 DOG  Pharaoh Hound
+134 DOG  Pointer
+135 DOG  Pomeranian
+136 DOG  Poodle Miniature
+137 DOG  Poodle Standard
+138 DOG  Poodle Toy
+139 DOG  Portuguese Water Dog
+140 DOG  Pug
+141 DOG  Pyrenean Mountain Dog
+142 DOG  Rhodesian Ridgeback
+143 DOG  Rottweiler
+144 DOG  Saluki
+145 DOG  Samoyed
+146 DOG  Schipperke
+147 DOG  Schnauzer Giant
+148 DOG  Schnauzer Miniature
+149 DOG  Schnauzer Standard
+150 DOG  Scottish Terrier
+151 DOG  Shar Pei
+152 DOG  Shetland Sheepdog
+153 DOG  Shih Tzu
+154 DOG  Siberian Husky
+155 DOG  Skye Terrier
+156 DOG  Sloughi
+157 DOG  Soft Coated Wheaten Terrier
+158 DOG  St Bernard
+159 DOG  Sussex Spaniel
+160 DOG  Swedish Vallhund
+161 DOG  Tenterfield Terrier
+162 DOG  Tibetan Mastiff
+163 DOG  Tibetan Spaniel
+164 DOG  Tibetan Terrier
+165 DOG  Weimaraner
+166 DOG  Welsh Corgi
+167 DOG  Welsh Springer Spaniel
+168 DOG  Welsh Terrier
+169 DOG  West Highland White Terrier
+170 DOG  Whippet
+171 DOG  Yorkshire Terrier
+172 COW  	Abondance
+173 COW  	Adaptaur
+174 COW  	Afrikaner
+175 COW  	Agerolese
+176 COW  	Alambadi
+177 COW  	Albera
+178 COW  	American Milking Devon
+179 COW  	Anatolian Black
+180 COW  	Andalusian Black
+181 COW  	Angus
+182 COW  	Ankole-Watusi
+183 COW  	Argentine Criollo
+184 COW  	Armorican
+185 COW  	Arouquesa
+186 COW  	Asturian Valley
+187 COW  	Aubrac
+188 COW  	Australian Braford
+189 COW  	Ayrshire
+190 COW  	Bargur
+191 COW  	Barzona
+192 COW  	Bazadaise
+193 COW  	Belgian Blue
+194 COW  	Belgian Red
+195 COW  	Belmont Red
+196 COW  	Belted Galloway
+197 COW  	Blaarkop
+198 COW  	Black Hereford
+199 COW  	Blonde dâ€™Aquitaine
+200 COW  	Boran
+201 COW  	Brahman
+202 COW  	Brangus
+203 COW  	Braunvieh
+204 COW  	Brava
+205 COW  	Brown Swiss
+206 COW  	Burlina
+207 COW  	Busa
+208 COW  	Cachena
+209 COW  	Camargue
+210 COW  	Canadian Speckle Park
+211 COW  	Canadienne
+212 COW  	Canchim
+213 COW  	Caracu
+214 COW  	Casta
+215 COW  	Charolais
+216 COW  	Chianina
+217 COW  	Chinese Black Pied
+218 COW  	Corriente
+219 COW  	Corsican
+220 COW  	Dangi
+221 COW  	Danish Red
+222 COW  	Deoni
+223 COW  	Devon
+224 COW  	Dexter
+225 COW  	Dhanni
+226 COW  	Droughtmaster
+227 COW  	Dutch Belted
+228 COW  	English Longhorn
+229 COW  	Evolene
+230 COW  	Finn
+231 COW  	Fjall
+232 COW  	Fleckvieh
+233 COW  	Florida Cracker
+234 COW  	French Simmental
+235 COW  	Galloway
+236 COW  	Gangatiri
+237 COW  	Gaolao
+238 COW  	Gascon
+239 COW  	Gelbvieh
+240 COW  	German Angus
+241 COW  	Gir
+242 COW  	Glan
+243 COW  	Gloucester
+244 COW  	Greek Shorthorn
+245 COW  	Halikar
+246 COW  	Haryana
+247 COW  	Hays Converter
+248 COW  	Heck
+249 COW  	Hereford
+250 COW  	Herens
+251 COW  	Highland
+252 COW  	Hinterwald
+253 COW  	Holando-Argentino
+254 COW  	Holstein Friesian
+255 COW  	Hungarian Grey
+256 COW  	Icelandic
+257 COW  	Illawarra
+258 COW  	Irish Moiled
+259 COW  	Istoben
+260 COW  	Jamaica Hope
+261 COW  	Jersey
+262 COW  	Jutland
+263 COW  	Kankrej
+264 COW  	Kangayam
+265 COW  	Kazakh Whiteheaded
+266 COW  	Kenkatha
+267 COW  	Kerry
+268 COW  	Kherigarh
+269 COW  	Khillari
+270 COW  	Kostroma
+271 COW  	Krishna Valley
+272 COW  	Kuri
+273 COW  	Lourdais
+274 COW  	Lowline
+275 COW  	Luing
+276 COW  	Lohani
+277 COW  	Lithuanian Red
+278 COW  	Lincoln Red
+279 COW  	Limousin
+280 COW  	Limia
+281 COW  	Lebedyn
+282 COW  	Latvian Brown
+283 COW  	Madura
+284 COW  	Maine-Anjou
+285 COW  	Malnad Gidda
+286 COW  	Malvi
+287 COW  	Marchigiana
+288 COW  	Maremmana
+289 COW  	Maronesa
+290 COW  	Mewati
+291 COW  	Milking Shorthorn
+292 COW  	Mirandesa
+293 COW  	Mongolian
+294 COW  	MontbÃ©liarde
+295 COW  	Murboden
+296 COW  	Murnau-Werdenfels
+297 COW  	Murray Grey
+298 COW  	Nagori
+299 COW  	Nâ€™dama
+300 COW  	Nelore
+301 COW  	Nguni
+302 COW  	Nimari
+303 COW  	Normande
+304 COW  	Norwegian Red
+305 COW  	Ongole
+306 COW  	Pajuna
+307 COW  	Pantaneiro
+308 COW  	Parthenais
+309 COW  	Pembroke
+310 COW  	Pie Rouge des Plaines
+311 COW  	Piedmontese
+312 COW  	Pinzgauer
+313 COW  	Pirenaica
+314 COW  	Podolica
+315 COW  	Polish Red
+316 COW  	Ponwar
+317 COW  	Punganur
+318 COW  	Pustertaler Sprinzen
+319 COW  	Ramo Grande
+320 COW  	Randall
+321 COW  	Rathi
+322 COW  	Red Angus
+323 COW  	Red Kandhari
+324 COW  	Red Poll
+325 COW  	Red Sindhi
+326 COW  	Ringamala
+327 COW  	Romagnola
+328 COW  	Romosinuano
+329 COW  	Rubia Gallega
+330 COW  	Sahiwal
+331 COW  	Santa Gertrudis
+332 COW  	Sayaguesa
+333 COW  	Senepol
+334 COW  	Shetland
+335 COW  	Shorthorn
+336 COW  	Simmental
+337 COW  	Siri
+338 COW  	South Devon
+339 COW  	Southern Yellow
+340 COW  	Spanish Fighting Bull
+341 COW  	Square Meater
+342 COW  	Sussex
+343 COW  	Swedish Red
+344 COW  	Tarentaise
+345 COW  	Telemark
+346 COW  	Texas Longhorn
+347 COW  	Tharparkar
+348 COW  	Tswana
+349 COW  	Tudanca
+350 COW  	Tux
+351 COW  	Tyrolese Grey
+352 COW  	Ukrainian Grey
+353 COW  	Umblachery
+354 COW  	Vaynol
+355 COW  	Vechur
+356 COW  	Vorderwald
+357 COW  	Welsh Black
+358 COW  	White Fulani
+359 COW  	White Park
+360 COW  	Whitebred Shorthorn
+361 COW  	Yakutian
+362 COW  	Yanbian
+363 COW  	Yurino
+364 RABBIT  	Lionhead Rabbit
+365 RABBIT  	Flemish Giant
+366 RABBIT  	Contintental Giant
+367 RABBIT  	Dutch Rabbit
+368 RABBIT  	English Lop
+369 RABBIT  	French Lop
+370 RABBIT  	Holland Lop
+371 RABBIT  	Mini Rex
+372 RABBIT  	Netherland dwarf
+373 RABBIT  	Polish Rabbit
+374 RABBIT  	American
+375 RABBIT  	American Fuzzy Lop
+376 RABBIT  	American Sable
+377 RABBIT  	Argente Brun
+378 RABBIT  	Argente CrÃ¨me
+379 RABBIT  	Argente de Champagne
+380 RABBIT  	Belgian Hare
+381 RABBIT  	Beveren
+382 RABBIT  	Blanc de Hotot
+383 RABBIT  	Britannia Petite
+384 RABBIT  	Californian
+385 RABBIT  	Checkered Giant
+386 RABBIT  	Chinchilla
+387 RABBIT  	Cinnamon
+388 RABBIT  	Dwarf Hotot
+389 RABBIT  	Dwarf Lop
+390 RABBIT  	English Angora
+391 RABBIT  	English Spot
+392 RABBIT  	Florida White
+393 RABBIT  	French Angora
+394 RABBIT  	Giant Angora
+395 RABBIT  	Giant Papillon
+396 RABBIT  	Harlequin
+397 RABBIT  	Havana
+398 RABBIT  	Himalayan
+399 RABBIT  	Jersey Wooly
+400 RABBIT  	Lilac
+401 RABBIT  	New Zealand
+402 RABBIT  	Palomino
+403 RABBIT  	Rex
+404 RABBIT  	Rhinelander
+405 RABBIT  	Satin
+406 RABBIT  	Satin Angora
+407 RABBIT  	Silver
+408 RABBIT  	Silver Fox
+409 RABBIT  	Silver Marten
+410 RABBIT  	Tan
+411 RABBIT  Thrianta
+412 RAT  	Aceh Rats
+413 RAT  	Andaman Archipelago Rats
+414 RAT  	Annandaleâ€™s Rats
+415 RAT  	Arianusâ€™ New Guinea Mountain Rats
+416 RAT  	Australian Pale Field Rats
+417 RAT  	Australian Swamp Rats
+418 RAT  	Black Rat
+419 RAT  	Bonthain Rats
+420 RAT  	Brown Rat
+421 RAT  	Bush Rats
+422 RAT  	Cape York Rats
+423 RAT  	Christmas Island Rats
+424 RAT  	Dusky Rats
+425 RAT  	Himalayan Field Rats
+426 RAT  	Himalayan Rats
+427 RAT  	Little Soft Furred Rats
+428 RAT  	Long-haired Rats
+429 RAT  	New Ireland Forest Rats
+430 RAT  	Nillu Rats
+431 RAT  	Polynesian Rats
+432 RAT  	Rice-field Rats
+433 RAT  	Sikkim Rats
+434 TORTOISE  	African Spurred Tortoise
+435 TORTOISE  	Aldabra Tortoise
+436 TORTOISE  	Leopard Tortoise
+437 TORTOISE  	Russian Tortoise
+438 TORTOISE  	Sulcata Tortoise
+439 TORTOISE  	Red-Footed Tortoise
+440 TORTOISE  	Radiated Tortoise
+441 TORTOISE  	Malacochersus Tornieri
+442 TORTOISE  Pancake Tortoise)
+443 TORTOISE  	Hermanns Tortoise
+444 TORTOISE  	Marginated Tortoise
+445 TORTOISE  	Gopher Tortoise
+446 TORTOISE  	Greek Tortoise
+447 TORTOISE  	Galapagos Tortoise
+448 TORTOISE  	Elongated Tortoise
+449 TORTOISE  	Hingeback Tortoise
+450 TORTOISE  	Yellow Foot Tortoise
+451 TORTOISE  	Desert Tortoise
